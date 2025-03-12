@@ -22,20 +22,20 @@ Google Colab o entorn local amb biblioteques necessàries
 Un entorn de proves per al frontend (Google Sites, WordPress, etc.)
 # 📂 Estructura del projecte
 📦 xatbot-ipop 
-┣ 📂 src # Codi font del backend ┃ 
-┣ 📜 main.ipynb # Backend principal del xatbot ┃ 
-┣ 📜 chatbot.ipynb # Lògica del chatbot (instruccions, API) ┃ 
-┣ 📜 scraper.ipynb # Web scraping per extreure informació ┃ 
-┗ 📜 config.ipynb # Configuració de la API i altres paràmetres 
+  ┣ 📂 src # Codi font del backend ┃ 
+    ┣ 📜 main.ipynb # Backend principal del xatbot ┃ 
+    ┣ 📜 chatbot.ipynb # Lògica del chatbot (instruccions, API) ┃ 
+    ┣ 📜 scraper.ipynb # Web scraping per extreure informació ┃ 
+    ┗ 📜 config.ipynb # Configuració de la API i altres paràmetres 
 
-┣ 📂 frontend # Widget frontend (HTML, CSS, JS) ┃ 
-┗ 📜 index.html # Integració al WordPress 
+  ┣ 📂 frontend # Widget frontend (HTML, CSS, JS) ┃ 
+    ┗ 📜 index.html # Integració al WordPress 
 
-┣ 📂 docs # Documentació del projecte 
-┣ 📜 requirements.txt # Biblioteques necessàries 
-┣ 📜 README.md # Aquest fitxer 
-┣ 📜 CHANGELOG.md # Registre de versions i canvis 
-┗ 📜 CONTRIBUTING.md # Guia per col·laboradors
+  ┣ 📂 docs # Documentació del projecte 
+    ┣ 📜 requirements.txt # Biblioteques necessàries 
+    ┣ 📜 README.md # Aquest fitxer 
+    ┣ 📜 CHANGELOG.md # Registre de versions i canvis 
+    ┗ 📜 CONTRIBUTING.md # Guia per col·laboradors
 
 # 🔧 Instal·lació
 
